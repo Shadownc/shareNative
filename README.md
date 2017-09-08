@@ -1,0 +1,2 @@
+# shareNative
+vue-share
